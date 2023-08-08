@@ -1,0 +1,1 @@
+function toggleSiteModeBannerVisibility(){var n="hide-banner",t=document.getElementById("site-mode"),i=document.getElementById("view-as");t&&(t.classList.contains(n)?t.classList.remove(n):t.classList.add(n));i&&(i.classList.contains(n)?i.classList.remove(n):i.classList.add(n))}
